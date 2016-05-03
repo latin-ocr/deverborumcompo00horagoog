@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deverborumcompo00horagoog/deverborumcompo00horagoog_0009.png"; bbox 0 0 3120 4838; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 303 1067 1469 1202">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 303 1067 1469 1202">
+     <span class='ocr_line' id='line_1_1' title="bbox 303 1067 1469 1202; baseline -0.003 -10"><span class='ocrx_word' id='word_1_1' title='bbox 303 1087 643 1202; x_wconf 79' lang='lat' dir='ltr'>FAUTORI</span> <span class='ocrx_word' id='word_1_2' title='bbox 686 1088 854 1192; x_wconf 90' lang='lat' dir='ltr'><strong>MEO</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 895 1088 1056 1192; x_wconf 86' lang='lat' dir='ltr'><strong>BEN</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1070 1088 1274 1194; x_wconf 88' lang='lat' dir='ltr'>IGNO</span> <span class='ocrx_word' id='word_1_5' title='bbox 1465 1067 1469 1075; x_wconf 57' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 321 1442 1096 1569">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 321 1442 1096 1569">
+     <span class='ocr_line' id='line_1_2' title="bbox 321 1442 1096 1569; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 321 1456 323 1459; x_wconf 80' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 476 1443 614 1568; x_wconf 89' lang='lat' dir='ltr'><strong>VON</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 651 1442 789 1568; x_wconf 89' lang='lat' dir='ltr'><strong>DER</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 826 1442 1096 1569; x_wconf 89' lang='lat' dir='ltr'>KLEYEN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 243 1763 1505 1875">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 243 1763 1505 1875">
+     <span class='ocr_line' id='line_1_3' title="bbox 243 1763 1505 1875; baseline 0.001 -19"><span class='ocrx_word' id='word_1_10' title='bbox 243 1789 342 1856; x_wconf 79' lang='lat' dir='ltr'><strong>HAS</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 371 1788 644 1858; x_wconf 75' lang='lat' dir='ltr'>STUDIORUM</span> <span class='ocrx_word' id='word_1_12' title='bbox 673 1789 923 1858; x_wconf 72' lang='lat' dir='ltr'><strong>PRIMITIAS</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 951 1763 1327 1875; x_wconf 72' lang='lat' dir='ltr'><strong>QUALESOUNQUE</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1502 1811 1505 1814; x_wconf 38' lang='lat'><strong>⁴</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1564 4838">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1564 4838">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1564 4838; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1564 4838; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
